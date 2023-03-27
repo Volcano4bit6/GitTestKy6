@@ -1,0 +1,104 @@
+1.What is Git?
+A) A distributed version control system
+B) A centralized version control system
+C) A programming language
+D) A database management system
+Answer: [A]
+
+2. Which command is used to initialize a Git repository?
+A) git add
+B) git clone
+C) git init
+D) git commit
+Answer: [C]
+
+3. Which command is used to switch to a different branch in Git?
+A) git branch
+B) git checkout
+C) git merge
+D) git fetch
+Answer: [B]
+
+4. Which command is used to stage changes for commit in Git?
+A) git add
+B) git clone
+C) git commit
+D) git push
+Answer: [A]
+
+5. Which command is used to view the commit history in Git?
+A) git status
+B) git diff
+C) git log
+D) git branch
+Answer: [C]
+
+6. Which command is used to undo the last commit in Git?
+A) git reset
+B) git revert
+C) git checkout
+D) git stash
+Answer: [B]
+
+7. Which command is used to view the differences between two commits in Git?
+A) git status
+B) git diff
+C) git log
+D) git branch
+Answer: [B]
+
+8. What is Git GUI?
+A) A command-line tool for managing Git repositories
+B) A visual interface for managing Git repositories
+C) A software development framework
+D) A database management system
+Answer: [B]
+
+9. Which Git GUI client is developed by Axosoft?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [A]
+
+10. Which Git GUI client is integrated with Visual Studio Code?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [A]
+
+11. Which Git GUI client allows you to visualize branch and merge relationships?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [B]
+
+12. Which Git GUI client includes a built-in merge tool for resolving merge conflicts?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [B]
+
+13. Which Git GUI client supports Git LFS (Large File Storage)?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [B]
+
+14. Which Git GUI client allows you to view the commit history graphically?
+A) GitKraken
+B) SourceTree
+C) GitHub Desktop
+D) TortoiseGit
+Answer: [B]
+
+15. Which command is used to discard changes in Git?
+A) git reset
+B) git revert
+C) git checkout
+D) git stash
+Answer: [A]
